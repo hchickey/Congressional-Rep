@@ -1,0 +1,32 @@
+
+body{
+    
+}
+.marsha {
+background-color: rgb(89, 190, 249);
+width: 36%;
+margin: 1.5em;
+padding: 1em;
+}
+
+.committees {
+    background-color: rgb(216, 23, 23);
+    margin: 1.5em;
+    width: 45%;
+    text-align: left;
+    font-size: 1.5em;
+    padding: 1em;
+
+}
+
+.links {
+    background-color: rgb(219, 210, 184);
+    margin: 1.5em;
+    padding: 1em;
+}
+
+#main-rep-component {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
